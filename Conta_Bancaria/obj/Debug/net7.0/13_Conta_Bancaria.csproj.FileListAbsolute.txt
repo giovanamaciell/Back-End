@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\bin\Debug\net7.0\13_Conta_Bancaria.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\bin\Debug\net7.0\13_Conta_Bancaria.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\bin\Debug\net7.0\13_Conta_Bancaria.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\bin\Debug\net7.0\13_Conta_Bancaria.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\bin\Debug\net7.0\13_Conta_Bancaria.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\refint\13_Conta_Bancaria.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\13_Conta_Bancaria.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\13_Conta_Bancaria\obj\Debug\net7.0\ref\13_Conta_Bancaria.dll

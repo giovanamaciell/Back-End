@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\bin\Debug\net7.0\03_Operaçoes.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\bin\Debug\net7.0\03_Operaçoes.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\bin\Debug\net7.0\03_Operaçoes.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\bin\Debug\net7.0\03_Operaçoes.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\bin\Debug\net7.0\03_Operaçoes.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\refint\03_Operaçoes.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\03_Operaçoes.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\03_Operaçoes\obj\Debug\net7.0\ref\03_Operaçoes.dll

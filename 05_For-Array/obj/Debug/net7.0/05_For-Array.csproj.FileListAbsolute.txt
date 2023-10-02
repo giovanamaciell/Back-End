@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\bin\Debug\net7.0\05_For-Array.exe
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\bin\Debug\net7.0\05_For-Array.deps.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\bin\Debug\net7.0\05_For-Array.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\bin\Debug\net7.0\05_For-Array.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\bin\Debug\net7.0\05_For-Array.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\refint\05_For-Array.dll
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.pdb
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\05_For-Array.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\curso.dev\2° semestre\Back End\05_For-Array\obj\Debug\net7.0\ref\05_For-Array.dll
